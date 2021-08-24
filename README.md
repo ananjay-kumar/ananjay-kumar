@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananjay-kumar
 - 👀 I’m interested in Data Science and it's application to various domain.
-- 🌱 I’m currently learning Machine Learning and Deep Learning in python
+- 🌱 I’m currently learning Machine Learning and Deep Learning in Python.
 
 
 <!---
